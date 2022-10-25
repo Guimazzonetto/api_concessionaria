@@ -1,0 +1,52 @@
+{
+    "cars": [
+        {
+            "brand": "bmw",
+            "model": "x1",
+            "year": "2022",
+            "doors_quantity": 4,
+            "color": "preta",
+            "id": "2010"
+        },
+        {
+            "brand": "mercedes",
+            "model": "sprinter",
+            "year": "2017",
+            "doors_quantity": 2,
+            "color": "branca",
+            "id": "1012"
+        },
+        {
+            "brand": "fiat",
+            "model": "marea",
+            "year": "2001",
+            "doors_quantity": 4,
+            "color": "cinza",
+            "id": "0116"
+        },
+        {
+            "brand": "ford",
+            "model": "fusion",
+            "year": "2016",
+            "doors_quantity": 4,
+            "color": "preta",
+            "id": "1020"
+        },
+        {
+            "brand": "volkswagen",
+            "model": "tiguan",
+            "year": "2019",
+            "doors_quantity": 4,
+            "color": "chumbo",
+            "id": "1090"
+        },
+        {
+            "brand": "citroen",
+            "model": "c4",
+            "year": "2021/2022",
+            "doors_quantity": 4,
+            "color": "cinza",
+            "id": "1028"
+        }
+    ]
+}
