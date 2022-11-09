@@ -1,10 +1,10 @@
 const router = require("express").Router();
 
-const getAllCars = require("../services/getAllCars");
+const getAllCars = require("../services/getAllCars.js");
 const get_car_by_id = require("../services/getCarById.js");
 const get_car_by_model =  require("../services/getCarByModel.js");
-const updateCar = require("../services/updateCar");
-const validateNewCar = require("../services/validateNewCar");
+const updateCar = require("../services/updateCar.js");
+const validateNewCar = require("../services/validateNewCar.js");
 
 router.get("/all", async function (req, res) {
     const {status, data} = getAllCars ();
